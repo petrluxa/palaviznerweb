@@ -6,6 +6,9 @@ Tři kompletní návrhy nového webu pro tenisový klub a akademii **Pála Vízn
 
 Zadání: **moderní · energický · luxusní**
 
+**Ukázka online:** https://petrluxa.github.io/palaviznerweb/
+(GitHub Pages z větve `main`; stránky mají `noindex`, aby je vyhledávače neplétly se současným webem klubu)
+
 ## Varianty
 
 Otevři [`index.html`](index.html) — galerie všech tří variant s porovnáním.
